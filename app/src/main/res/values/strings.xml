@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internationalization and localization </string>
+    <string name="email">Enter your email: </string>
+    <string name="password">Enter your password: </string>
+    <string name="login">Click here to login</string>
+    <string name="changeLang">Click here to change your app language</string>
+</resources>

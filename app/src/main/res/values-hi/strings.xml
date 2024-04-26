@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">अंतर्राष्ट्रीयकरण और स्थानीयकरण</string>
+        <string name="email">अपना ईमेल दर्ज करें: </string>
+        <string name="password">अपना कूटशब्द भरें: </string>
+        <string name="login">लॉग इन करने के लिए यहां क्लिक करें</string>
+        <string name="changeLang">अपने ऐप की भाषा बदलने के लिए यहां क्लिक करें</string>
+</resources>

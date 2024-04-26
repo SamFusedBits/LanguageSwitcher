@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">internationalization અને localization</string>
+    <string name="email">આपની  email  daalo: </string>
+    <string name="password">આपની પાસવર્ડ  daalo: </string>
+    <string name="login">લોગઇન કરવા માટે ક્લિક કરો</string>
+    <string name="changeLang">આ  app  your  bhasha  change  karo</string>
+</resources>

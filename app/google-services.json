@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "223457113378",
+    "firebase_url": "https://fir-rdb-fa9dd-default-rtdb.firebaseio.com",
+    "project_id": "fir-rdb-fa9dd",
+    "storage_bucket": "fir-rdb-fa9dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223457113378:android:d4458bad4edccfb7fa617b",
+        "android_client_info": {
+          "package_name": "com.example.firebaserdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIf6xKNtmh65JNTSnDXNZq-SqlbhRG_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223457113378:android:384b3008db3ba7abfa617b",
+        "android_client_info": {
+          "package_name": "com.example.internationalization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIf6xKNtmh65JNTSnDXNZq-SqlbhRG_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

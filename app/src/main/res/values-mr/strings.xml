@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अन्तरराष्ट्रीयकरण आणि स्थानिकीकरण </string>
+    <string name="email">आपला ईमे일 दाखल करा: </string>
+    <string name="password">आपला पासवर्ड दाखल करा: </string>
+    <string name="login">लॉगिन करा</string>
+    <string name="changeLang">आपली ऐप भाषा बदला</string>
+</resources>
